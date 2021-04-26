@@ -1,4 +1,5 @@
 *.replit
+<<<<<<< HEAD
 *.class
 **/*
 !**/*.go
